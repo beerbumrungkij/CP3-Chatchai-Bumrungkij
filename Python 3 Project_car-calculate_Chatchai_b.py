@@ -60,6 +60,7 @@ def leftClickButton(event):
 
 
 MainWindow = Tk()
+MainWindow.title("โปรแกรมคำนวณเงินค่างวดรถต่อเดือน")
 
 # title
 labelTitle = Label(MainWindow, text="โปรแกรมคำนวณเงินค่างวดรถต่อเดือน", font=('tahoma', 14), width=30, height=2,
